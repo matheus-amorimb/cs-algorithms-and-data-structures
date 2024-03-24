@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/bin/Debug/net8.0/01BinarySearch
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/bin/Debug/net8.0/01BinarySearch.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/bin/Debug/net8.0/01BinarySearch.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/bin/Debug/net8.0/01BinarySearch.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/bin/Debug/net8.0/01BinarySearch.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/refint/01BinarySearch.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/01BinarySearch.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/01BinarySearch/obj/Debug/net8.0/ref/01BinarySearch.dll

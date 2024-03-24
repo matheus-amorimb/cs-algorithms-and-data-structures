@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/bin/Debug/net8.0/34FindFirstAndLastPosition
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/bin/Debug/net8.0/34FindFirstAndLastPosition.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/bin/Debug/net8.0/34FindFirstAndLastPosition.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/bin/Debug/net8.0/34FindFirstAndLastPosition.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/bin/Debug/net8.0/34FindFirstAndLastPosition.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/refint/34FindFirstAndLastPosition.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/34FindFirstAndLastPosition.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/34FindFirstAndLastPosition/obj/Debug/net8.0/ref/34FindFirstAndLastPosition.dll

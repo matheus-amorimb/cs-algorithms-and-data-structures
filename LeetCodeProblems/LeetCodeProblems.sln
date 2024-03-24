@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34FindFirstAndLastPosition", "34FindFirstAndLastPosition\34FindFirstAndLastPosition.csproj", "{378FA1DB-4421-4747-9F07-7E2247D3142A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378FA1DB-4421-4747-9F07-7E2247D3142A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378FA1DB-4421-4747-9F07-7E2247D3142A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378FA1DB-4421-4747-9F07-7E2247D3142A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378FA1DB-4421-4747-9F07-7E2247D3142A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

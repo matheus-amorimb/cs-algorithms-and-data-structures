@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/bin/Debug/net8.0/88MergeSortedArray
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/bin/Debug/net8.0/88MergeSortedArray.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/bin/Debug/net8.0/88MergeSortedArray.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/bin/Debug/net8.0/88MergeSortedArray.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/bin/Debug/net8.0/88MergeSortedArray.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/refint/88MergeSortedArray.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/88MergeSortedArray.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/88MergeSortedArray/obj/Debug/net8.0/ref/88MergeSortedArray.dll

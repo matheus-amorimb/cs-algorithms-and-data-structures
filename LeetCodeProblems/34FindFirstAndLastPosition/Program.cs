@@ -7,7 +7,7 @@ Console.WriteLine($"[{string.Join(",", answer)}]");
 
 static int[] Solution(List<int> nums, int target)
 {
-    int top = nums.Count - 1;
+    int top = nums.Count() - 1;
     int bottom = 0;
     int i = -1;
     int j = -1;
@@ -30,7 +30,7 @@ static int[] Solution(List<int> nums, int target)
             }
             
             //Right pointer
-            while (j < (nums.Count - 1) && nums[j + 1] == target)
+            while (j < (nums.Count() - 1) && nums[j + 1] == target)
             {
                 j++;
                 // Console.WriteLine($"j: {j}");

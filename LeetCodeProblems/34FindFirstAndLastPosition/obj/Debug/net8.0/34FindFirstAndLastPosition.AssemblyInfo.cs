@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("34FindFirstAndLastPosition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd22add5c9d334feed0009d3ea903fd611b785cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b29631041f054dbdc03285b09630083432ed68")]
 [assembly: System.Reflection.AssemblyProductAttribute("34FindFirstAndLastPosition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("34FindFirstAndLastPosition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

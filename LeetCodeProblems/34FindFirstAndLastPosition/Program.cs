@@ -1,7 +1,9 @@
 ﻿List<int> nums = [5, 7, 7, 8, 8, 10];
 int target = 8;
 
-Console.WriteLine(Solution(nums, target));
+int[] answer = Solution(nums, target);
+
+Console.WriteLine($"[{string.Join(",", answer)}]");
 
 static int[] Solution(List<int> nums, int target)
 {
@@ -17,53 +19,23 @@ static int[] Solution(List<int> nums, int target)
 
         if (guess == target)
         {
-            i = middle - 1;
-            j = middle + 1;
+            i = middle;
+            j = middle;
             
             //Left pointer
-            guess = nums[i];
-            while (i > 0 && guess == target)
+            while (i > 0 && nums[i - 1] == target)
             {
                 i--;
-                guess = nums[i];
-
+                // Console.WriteLine($"i: {i}");
             }
             
             //Right pointer
-            guess = nums[j];
-            while (j < nums.Count - 1 && guess == target)
+            while (j < (nums.Count - 1) && nums[j + 1] == target)
             {
                 j++;
-                guess = nums[i];
-
+                // Console.WriteLine($"j: {j}");
             }
             
-            return new int[] {i, j};
-            // int rightIndex = middle + 1;
-            // int leftIndex = middle - 1;
-            //
-            // int right = nums[rightIndex];
-            // int left = nums[leftIndex];
-            //
-            // while (right != target && left != target)
-            // {
-            //     if (right == target)
-            //     {
-            //         j = rightIndex;
-            //     }    
-            //     if (left == target)
-            //     {
-            //         i = leftIndex;
-            //     }
-            //     
-            //     rightIndex++;
-            //     leftIndex--;
-            //     
-            //     right = nums[rightIndex];
-            //     left = nums[leftIndex];
-            // }
-
-            Console.WriteLine($"{i}, {j}");
             return new int[] {i, j};
         }
 

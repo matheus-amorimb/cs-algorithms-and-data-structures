@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01BinarySearch", "01BinarySearch\01BinarySearch.csproj", "{1340E6D0-7C5C-4511-9E4A-903758627628}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SelectionSort", "02SelectionSort\02SelectionSort.csproj", "{A542EA0A-0D5F-40B8-B14E-E7EBFF044AE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1340E6D0-7C5C-4511-9E4A-903758627628}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1340E6D0-7C5C-4511-9E4A-903758627628}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1340E6D0-7C5C-4511-9E4A-903758627628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A542EA0A-0D5F-40B8-B14E-E7EBFF044AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A542EA0A-0D5F-40B8-B14E-E7EBFF044AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A542EA0A-0D5F-40B8-B14E-E7EBFF044AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A542EA0A-0D5F-40B8-B14E-E7EBFF044AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

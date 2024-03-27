@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/bin/Debug/net8.0/02SelectionSort
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/bin/Debug/net8.0/02SelectionSort.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/bin/Debug/net8.0/02SelectionSort.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/bin/Debug/net8.0/02SelectionSort.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/bin/Debug/net8.0/02SelectionSort.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/refint/02SelectionSort.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/02SelectionSort.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/02SelectionSort/obj/Debug/net8.0/ref/02SelectionSort.dll

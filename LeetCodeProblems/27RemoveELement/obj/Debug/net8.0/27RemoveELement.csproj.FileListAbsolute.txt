@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/bin/Debug/net8.0/27RemoveELement
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/bin/Debug/net8.0/27RemoveELement.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/bin/Debug/net8.0/27RemoveELement.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/bin/Debug/net8.0/27RemoveELement.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/bin/Debug/net8.0/27RemoveELement.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/refint/27RemoveELement.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/ref/27RemoveELement.dll

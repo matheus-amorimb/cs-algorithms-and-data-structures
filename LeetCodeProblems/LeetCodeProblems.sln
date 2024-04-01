@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34FindFirstAndLastPosition"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88MergeSortedArray", "88MergeSortedArray\88MergeSortedArray.csproj", "{FE8C80A1-9A9F-4484-9733-0E45659276EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27RemoveELement", "27RemoveELement\27RemoveELement.csproj", "{BAABCD12-27A5-4B61-BDF9-992E5756C693}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FE8C80A1-9A9F-4484-9733-0E45659276EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE8C80A1-9A9F-4484-9733-0E45659276EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE8C80A1-9A9F-4484-9733-0E45659276EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAABCD12-27A5-4B61-BDF9-992E5756C693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAABCD12-27A5-4B61-BDF9-992E5756C693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAABCD12-27A5-4B61-BDF9-992E5756C693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAABCD12-27A5-4B61-BDF9-992E5756C693}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

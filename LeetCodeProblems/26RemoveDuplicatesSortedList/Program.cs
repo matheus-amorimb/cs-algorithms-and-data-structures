@@ -14,11 +14,6 @@ static int RemoveDuplicates(int[] nums)
             j++;
         }
     }
-
-    for (int i = j; i < nums.Length; i++)
-    {
-        nums[i] = int.MinValue;
-    }
     
     foreach (var num in nums)
     {

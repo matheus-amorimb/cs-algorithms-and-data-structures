@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="" />
+    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/27RemoveELement/obj/Debug/net8.0/27RemoveELement.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,28 +27,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.01BinarySearch.executor": "Run",
-    ".NET Project.02SelectionSort.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.01BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.02SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
-      "/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache",
-      "/home/matheus/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
+      &quot;/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
+      &quot;/home/matheus/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.02SelectionSort">
     <configuration name="01BinarySearch" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -113,6 +117,7 @@
       <workItem from="1711280751869" duration="7279000" />
       <workItem from="1711535490084" duration="3480000" />
       <workItem from="1711709904107" duration="100000" />
+      <workItem from="1712273864277" duration="2905000" />
     </task>
     <servers />
   </component>

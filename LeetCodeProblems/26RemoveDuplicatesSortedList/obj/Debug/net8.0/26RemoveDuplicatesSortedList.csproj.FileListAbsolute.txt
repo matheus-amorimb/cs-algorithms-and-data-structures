@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/bin/Debug/net8.0/26RemoveDuplicatesSortedList
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/bin/Debug/net8.0/26RemoveDuplicatesSortedList.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/bin/Debug/net8.0/26RemoveDuplicatesSortedList.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/bin/Debug/net8.0/26RemoveDuplicatesSortedList.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/bin/Debug/net8.0/26RemoveDuplicatesSortedList.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/refint/26RemoveDuplicatesSortedList.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/26RemoveDuplicatesSortedList.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/26RemoveDuplicatesSortedList/obj/Debug/net8.0/ref/26RemoveDuplicatesSortedList.dll

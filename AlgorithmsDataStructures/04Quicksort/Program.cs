@@ -1,32 +1,49 @@
-﻿//Função soma de forma recursiva
+﻿ List<int> list = new List<int>() { 1, 200, 201, -4, 55, 128, 4};
+ 
+ Console.WriteLine("============= Quicksort =============");
+List<int> sortedList = QuickSort(list);
 
-List<int> list = new List<int>() { 1, 2, 3, 4 };
+ foreach (var value in sortedList)
+ {
+     Console.Write($"{value} ");
+ }
+ 
+ static List<int> QuickSort(List<int> list)
+ {
+     if (list.Count < 2)
+     {
+         return list;
+     }
 
-Console.WriteLine(SumRecursive(list));
+     if (list.Count == 2)
+     {
+         if (list[0] <= list[1])
+         {
+            (list[0], list[1]) = (list[1], list[0]);
+         }
 
-static int SumRecursive(List<int> list)
-{
-    if (list.Count == 0)
-    {
-        return 0;
-    }
-    return list[0] + SumRecursive(list.GetRange(1, list.Count - 1));;
-}
+         return list;
+     }
 
-//Função conta número de itens de forma recursiva
-List<int> list2 = new List<int>() { 1, 2, 3, 4 };
+     List<int> partialLeft = new List<int>();
+     List<int> partialRight = new List<int>();
+     
+     int pivot = list[0];
 
-Console.WriteLine(CountRecursive(list2));
+     foreach (var num in list)
+     {
+         if (num < pivot)
+         {
+             partialLeft.Append(num);
+         }
+         else
+         {
+             partialRight.Append(num);
+         }
+     }
 
-static int CountRecursive(List<int> list)
-{
-    
-    if (list.Count == 0)
-    {
-        return 0;
-    }
-    
-    list.RemoveAt(0);
-
-    return 1 + CountRecursive(list);
-}
+     partialLeft = QuickSort(partialLeft);
+     partialRight = QuickSort(partialRight);
+     
+     return partialLeft.Append(pivot).Concat(partialRight).ToList();
+ }

@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/bin/Debug/net8.0/04Quicksort
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/bin/Debug/net8.0/04Quicksort.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/bin/Debug/net8.0/04Quicksort.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/bin/Debug/net8.0/04Quicksort.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/bin/Debug/net8.0/04Quicksort.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/refint/04Quicksort.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/04Quicksort.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/04Quicksort/obj/Debug/net8.0/ref/04Quicksort.dll

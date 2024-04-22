@@ -12,7 +12,16 @@
   <component name="ChangeListManager">
     <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/bin/Debug/net8.0/04Quicksort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/bin/Debug/net8.0/04Quicksort.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/bin/Debug/net8.0/04Quicksort.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/bin/Debug/net8.0/04Quicksort.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/ref/04Quicksort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/ref/04Quicksort.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/refint/04Quicksort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/refint/04Quicksort.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +152,7 @@
       <workItem from="1711535490084" duration="3480000" />
       <workItem from="1711709904107" duration="100000" />
       <workItem from="1712273864277" duration="2905000" />
-      <workItem from="1713781412090" duration="2356000" />
+      <workItem from="1713781412090" duration="2689000" />
     </task>
     <servers />
   </component>

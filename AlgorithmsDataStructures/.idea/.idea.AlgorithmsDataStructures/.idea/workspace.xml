@@ -47,7 +47,7 @@
   "keyToString": {
     ".NET Project.01BinarySearch.executor": "Run",
     ".NET Project.02SelectionSort.executor": "Run",
-    ".NET Project.04Quicksort.executor": "Debug",
+    ".NET Project.04Quicksort.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/matheus/matheus-dev/code/cs/web-api-asp-net-core/ApiCatalogo/ApiCatalogo.sln",
@@ -173,7 +173,7 @@
       <workItem from="1711709904107" duration="100000" />
       <workItem from="1712273864277" duration="2905000" />
       <workItem from="1713781412090" duration="2717000" />
-      <workItem from="1713815313815" duration="8606000" />
+      <workItem from="1713815313815" duration="11673000" />
     </task>
     <servers />
   </component>
@@ -183,24 +183,5 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/04Quicksort/Program.cs</url>
-          <line>12</line>
-          <properties documentPath="$PROJECT_DIR$/04Quicksort/Program.cs" containingFunctionPresentation="Local function 'QuickSort'">
-            <startOffsets>
-              <option value="282" />
-            </startOffsets>
-            <endOffsets>
-              <option value="321" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

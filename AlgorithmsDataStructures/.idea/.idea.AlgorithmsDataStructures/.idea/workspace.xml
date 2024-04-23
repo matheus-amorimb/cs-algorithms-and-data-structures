@@ -14,7 +14,16 @@
   <component name="ChangeListManager">
     <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/bin/Debug/net8.0/80RemoveDuplicatesSortedArrayII.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/bin/Debug/net8.0/80RemoveDuplicatesSortedArrayII.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/bin/Debug/net8.0/80RemoveDuplicatesSortedArrayII.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/bin/Debug/net8.0/80RemoveDuplicatesSortedArrayII.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/80RemoveDuplicatesSortedArrayII.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/ref/80RemoveDuplicatesSortedArrayII.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/ref/80RemoveDuplicatesSortedArrayII.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/refint/80RemoveDuplicatesSortedArrayII.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/80RemoveDuplicatesSortedArrayII/obj/Debug/net8.0/refint/80RemoveDuplicatesSortedArrayII.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +51,7 @@
     ".NET Project.04Quicksort.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/matheus/matheus-dev/code/cs/web-api-asp-net-core/ApiCatalogo/ApiCatalogo.sln",
+    "last_opened_file_path": "/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/LeetCodeProblems.sln",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -183,7 +192,7 @@
       <workItem from="1711709904107" duration="100000" />
       <workItem from="1712273864277" duration="2905000" />
       <workItem from="1713781412090" duration="2717000" />
-      <workItem from="1713815313815" duration="15096000" />
+      <workItem from="1713815313815" duration="16324000" />
     </task>
     <servers />
   </component>

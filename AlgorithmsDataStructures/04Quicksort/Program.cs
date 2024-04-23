@@ -1,4 +1,4 @@
-﻿ List<int> list = new List<int>() { 1, 200, 201, -4, 55, 128, 4};
+﻿ List<int> list = new List<int>() { 1, 200, 201, 105, 99, -1, 2, 7, 93};
  
  Console.WriteLine("============= Quicksort =============");
 List<int> sortedList = QuickSort(list);
@@ -10,18 +10,10 @@ List<int> sortedList = QuickSort(list);
  
  static List<int> QuickSort(List<int> list)
  {
+     List<int> sortedList = new List<int>();
+     
      if (list.Count < 2)
      {
-         return list;
-     }
-
-     if (list.Count == 2)
-     {
-         if (list[0] <= list[1])
-         {
-            (list[0], list[1]) = (list[1], list[0]);
-         }
-
          return list;
      }
 
@@ -30,20 +22,23 @@ List<int> sortedList = QuickSort(list);
      
      int pivot = list[0];
 
-     foreach (var num in list)
+     for (int i = 1; i < list.Count; i++)
      {
-         if (num < pivot)
+         if (list[i] < pivot)
          {
-             partialLeft.Append(num);
+             partialLeft.Add(list[i]);
          }
          else
          {
-             partialRight.Append(num);
+             partialRight.Add(list[i]);
          }
      }
 
      partialLeft = QuickSort(partialLeft);
      partialRight = QuickSort(partialRight);
+
+     sortedList = partialLeft.Append(pivot).ToList();
+     sortedList = sortedList.Concat(partialRight).ToList();
      
-     return partialLeft.Append(pivot).Concat(partialRight).ToList();
+     return sortedList;
  }

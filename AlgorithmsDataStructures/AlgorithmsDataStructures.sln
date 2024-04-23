@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Quicksort", "04Quicksort\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Recursion", "03Recursion\03Recursion.csproj", "{0AB2C85F-D532-4BC6-B010-D4A855E15BAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05HashTables", "05HashTables\05HashTables.csproj", "{754981CA-7305-45E4-BC99-2DD7A973222E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0AB2C85F-D532-4BC6-B010-D4A855E15BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB2C85F-D532-4BC6-B010-D4A855E15BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB2C85F-D532-4BC6-B010-D4A855E15BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754981CA-7305-45E4-BC99-2DD7A973222E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754981CA-7305-45E4-BC99-2DD7A973222E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754981CA-7305-45E4-BC99-2DD7A973222E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754981CA-7305-45E4-BC99-2DD7A973222E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

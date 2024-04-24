@@ -14,6 +14,9 @@
   <component name="ChangeListManager">
     <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

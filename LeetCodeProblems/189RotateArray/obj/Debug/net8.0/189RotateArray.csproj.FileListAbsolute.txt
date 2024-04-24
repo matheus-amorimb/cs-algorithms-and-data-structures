@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/refint/189RotateArray.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/189RotateArray/obj/Debug/net8.0/ref/189RotateArray.dll

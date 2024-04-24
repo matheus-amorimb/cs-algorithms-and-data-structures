@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80RemoveDuplicatesSortedArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169MajorityElement", "169MajorityElement\169MajorityElement.csproj", "{F8D8F5F4-52DB-46D8-A7DC-A2818810DDA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189RotateArray", "189RotateArray\189RotateArray.csproj", "{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{F8D8F5F4-52DB-46D8-A7DC-A2818810DDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8D8F5F4-52DB-46D8-A7DC-A2818810DDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8D8F5F4-52DB-46D8-A7DC-A2818810DDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

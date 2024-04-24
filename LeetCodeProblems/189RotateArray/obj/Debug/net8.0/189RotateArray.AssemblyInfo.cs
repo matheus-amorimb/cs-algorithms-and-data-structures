@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("189RotateArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+356090cd9069ac51d264827ea228c9ef96a855a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d944c0001f9e2a874bf9a1a1eeab5ee1bb58a4bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("189RotateArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("189RotateArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

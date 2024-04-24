@@ -1,6 +1,6 @@
-﻿List<int> nums = new List<int>() {1,2,3,4,5,6,7};
+﻿int[] nums = new int[]{1,2,3,4,5,6,7};
 
-List<int> numsRotated = RotateArray2(nums, 3);
+int[] numsRotated = RotateArray2(nums, 3);
 
 foreach (var num in numsRotated)
 {
@@ -34,20 +34,26 @@ foreach (var num in numsRotated)
      return RotateArray(RotateArray(nums, 1), k);
  }
 
- static List<int> RotateArray2(List<int> nums, int k)
+ static int[] RotateArray2(int[] nums, int k)
  {
-
-     List<int> leftSide = nums.GetRange(0, nums.Count() - k);
-     List<int> rigthSide = nums.GetRange(nums.Count() - k, k);
-
-     for (int i = 0; i < k; i++)
-     {
-        nums[i] = rigthSide[i];
+     if(nums.Count() == 1 || k == 0){
+         //
      }
-     
-     for (int i = 0; i < nums.Count() - k; i++)
+     else
      {
-         nums[k + i] = leftSide[i];
+         k = k % nums.Count();
+         int[] leftSide = nums[..^k];
+         int[] rightSide = nums[^k..];
+
+         for (int i = 0; i < k; i++)
+         {
+             nums[i] = rightSide[i];
+         }
+            
+         for (int i = 0; i < nums.Count() - k; i++)
+         {
+             nums[k + i] = leftSide[i];
+         }
      }
      
      return nums;

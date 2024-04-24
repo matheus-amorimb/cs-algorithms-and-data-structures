@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/bin/Debug/net8.0/169MajorityElement
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/bin/Debug/net8.0/169MajorityElement.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/bin/Debug/net8.0/169MajorityElement.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/bin/Debug/net8.0/169MajorityElement.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/bin/Debug/net8.0/169MajorityElement.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/refint/169MajorityElement.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/169MajorityElement.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/169MajorityElement/obj/Debug/net8.0/ref/169MajorityElement.dll

@@ -10,24 +10,16 @@ static int MaxProfit(int[] prices)
     
     foreach (var price in prices)
     {
-        if (price < lowestValue)
-        {
-            lowestValue = price;
-            highestValue = price;
+        (highestValue, lowestValue) = price < lowestValue ? 
+            (price, price) : 
+            (highestValue, lowestValue);
         
-        }
-
-        if (price > highestValue)
-        {
-            highestValue = price;
-        }
+        highestValue = price > highestValue ? price : highestValue;
         
         int currentProfit = highestValue - lowestValue;
 
-        if (currentProfit > maxProfit)
-        {
-            maxProfit = currentProfit;
-        }
+        maxProfit = currentProfit > maxProfit ? currentProfit : maxProfit;
+        
     }
 
     return maxProfit > 0 ? maxProfit : 0;

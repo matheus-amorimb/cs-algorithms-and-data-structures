@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/refint/06BreadthFirstSearch.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/06BreadthFirstSearch/obj/Debug/net8.0/ref/06BreadthFirstSearch.dll

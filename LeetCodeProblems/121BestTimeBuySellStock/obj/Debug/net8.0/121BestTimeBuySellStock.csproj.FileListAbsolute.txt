@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/bin/Debug/net8.0/121BestTimeBuySellStock
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/bin/Debug/net8.0/121BestTimeBuySellStock.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/bin/Debug/net8.0/121BestTimeBuySellStock.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/bin/Debug/net8.0/121BestTimeBuySellStock.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/bin/Debug/net8.0/121BestTimeBuySellStock.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/refint/121BestTimeBuySellStock.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/121BestTimeBuySellStock.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/121BestTimeBuySellStock/obj/Debug/net8.0/ref/121BestTimeBuySellStock.dll

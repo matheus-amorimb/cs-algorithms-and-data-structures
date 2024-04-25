@@ -12,18 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/bin/Debug/net8.0/189RotateArray.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/189RotateArray.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/ref/189RotateArray.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/ref/189RotateArray.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/refint/189RotateArray.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCodeProblems/189RotateArray/obj/Debug/net8.0/refint/189RotateArray.dll" afterDir="false" />
-    </list>
+    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

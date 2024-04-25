@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169MajorityElement", "169Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189RotateArray", "189RotateArray\189RotateArray.csproj", "{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121BestTimeBuySellStock", "121BestTimeBuySellStock\121BestTimeBuySellStock.csproj", "{BAA3BFDC-AE0F-4CC9-9450-AB94B012937D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02E7CD3F-45AD-46A4-8C3E-78D8C9EC1B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA3BFDC-AE0F-4CC9-9450-AB94B012937D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA3BFDC-AE0F-4CC9-9450-AB94B012937D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA3BFDC-AE0F-4CC9-9450-AB94B012937D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA3BFDC-AE0F-4CC9-9450-AB94B012937D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

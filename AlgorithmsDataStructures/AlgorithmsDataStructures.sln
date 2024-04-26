@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05HashTables", "05HashTable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06BreadthFirstSearch", "06BreadthFirstSearch\06BreadthFirstSearch.csproj", "{2C28740D-F39C-4A7A-A305-1AA9355666B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07DijkstraAlgorithm", "07DijkstraAlgorithm\07DijkstraAlgorithm.csproj", "{5EABBEC9-AE89-4297-A95B-AE066BE73F73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{2C28740D-F39C-4A7A-A305-1AA9355666B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C28740D-F39C-4A7A-A305-1AA9355666B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C28740D-F39C-4A7A-A305-1AA9355666B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EABBEC9-AE89-4297-A95B-AE066BE73F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EABBEC9-AE89-4297-A95B-AE066BE73F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EABBEC9-AE89-4297-A95B-AE066BE73F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EABBEC9-AE89-4297-A95B-AE066BE73F73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

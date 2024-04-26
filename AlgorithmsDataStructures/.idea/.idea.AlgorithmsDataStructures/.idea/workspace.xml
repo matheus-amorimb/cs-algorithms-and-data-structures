@@ -15,16 +15,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/ref/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/ref/06BreadthFirstSearch.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/refint/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/refint/06BreadthFirstSearch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +227,7 @@
       <workItem from="1711709904107" duration="100000" />
       <workItem from="1712273864277" duration="2905000" />
       <workItem from="1713781412090" duration="2717000" />
-      <workItem from="1713815313815" duration="24083000" />
+      <workItem from="1713815313815" duration="27240000" />
     </task>
     <servers />
   </component>

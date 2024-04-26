@@ -6,6 +6,7 @@
     <projectFile>03Recursion/03Recursion.csproj</projectFile>
     <projectFile>04Quicksort/04Quicksort.csproj</projectFile>
     <projectFile>05HashTables/05HashTables.csproj</projectFile>
+    <projectFile>07DijkstraAlgorithm/07DijkstraAlgorithm.csproj</projectFile>
     <projectFile>AlgorithmsDataStructures/AlgorithmsDataStructures.csproj</projectFile>
     <projectFile>BreadthFirstSearch/BreadthFirstSearch.csproj</projectFile>
   </component>
@@ -15,7 +16,20 @@
   <component name="ChangeListManager">
     <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/04Quicksort/obj/Debug/net8.0/04Quicksort.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/bin/Debug/net8.0/06BreadthFirstSearch.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/06BreadthFirstSearch.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/ref/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/ref/06BreadthFirstSearch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/refint/06BreadthFirstSearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/06BreadthFirstSearch/obj/Debug/net8.0/refint/06BreadthFirstSearch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +57,7 @@
     ".NET Project.02SelectionSort.executor": "Run",
     ".NET Project.04Quicksort.executor": "Run",
     ".NET Project.06BreadthFirstSearch.executor": "Run",
+    ".NET Project.07DijkstraAlgorithm.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/LeetCodeProblems.sln",
@@ -62,7 +77,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.06BreadthFirstSearch">
+  <component name="RunManager" selected=".NET Project.07DijkstraAlgorithm">
     <configuration name="01BinarySearch" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -171,6 +186,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="07DijkstraAlgorithm" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/07DijkstraAlgorithm/07DijkstraAlgorithm.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="AlgorithmsDataStructures" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -228,6 +261,7 @@
       <workItem from="1712273864277" duration="2905000" />
       <workItem from="1713781412090" duration="2717000" />
       <workItem from="1713815313815" duration="27240000" />
+      <workItem from="1714161477944" duration="6520000" />
     </task>
     <servers />
   </component>

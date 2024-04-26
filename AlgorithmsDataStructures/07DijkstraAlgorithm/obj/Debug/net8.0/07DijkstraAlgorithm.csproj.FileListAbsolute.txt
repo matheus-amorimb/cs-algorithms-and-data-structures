@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/refint/07DijkstraAlgorithm.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/07DijkstraAlgorithm/obj/Debug/net8.0/ref/07DijkstraAlgorithm.dll

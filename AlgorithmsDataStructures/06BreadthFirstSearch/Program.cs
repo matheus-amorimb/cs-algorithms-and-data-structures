@@ -1,10 +1,10 @@
 ﻿Dictionary<string, string[]> graph = new Dictionary<string, string[]>();
 
-graph["matheus"] = ["Luan", "Lohana", "Beatriz", "Cris"];
-graph["Cris"] = ["Zirlanda"];
-graph["Beatriz"] = ["Ricardo"];
-graph["Luan"] = ["Cris", "Layana", "PeterSeller"];
-graph["Lohana"] = [];
+graph["matheus"] = new string[] { "Luan", "Lohana", "Beatriz", "Cris" };
+graph["Cris"] = new string[] { "Zirlanda" };
+graph["Beatriz"] = new string[] { "Ricardo" };
+graph["Luan"] = new string[] { "Cris", "Layana", "PeterSeller" };
+graph["Lohana"] = new string[] { };
 
 Console.WriteLine(BreadthFirstSearch(graph, "matheus"));
 

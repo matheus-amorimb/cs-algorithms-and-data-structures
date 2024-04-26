@@ -3,8 +3,8 @@
 graph["matheus"] = new string[] { "Luan", "Lohana", "Beatriz", "Cris" };
 graph["Cris"] = new string[] { "Zirlanda" };
 graph["Beatriz"] = new string[] { "Ricardo" };
-graph["Luan"] = new string[] { "Cris", "Layana", "PeterSeller" };
-graph["Lohana"] = new string[] { };
+graph["Luan"] = new string[] { "Cris", "Layana", "Peter" };
+graph["Lohana"] = new string[] {"Matheus"};
 
 Console.WriteLine(BreadthFirstSearch(graph, "matheus"));
 
@@ -16,6 +16,7 @@ static bool isSeller(string name)
 static string BreadthFirstSearch(Dictionary<string, string[]> graph, string firstPerson)
 {
     Queue<string> people = new Queue<string>();
+    List<string> peopleChecked = new List<string>(); 
 
     foreach (var person in graph[firstPerson])
     {
@@ -25,18 +26,23 @@ static string BreadthFirstSearch(Dictionary<string, string[]> graph, string firs
     while (people.Count > 0)
     {
         string individual = people.Dequeue();
+        
         if (isSeller(individual))
         {
             return individual;
         }
         else
         {
-            if (graph.ContainsKey(individual))
+            if (!peopleChecked.Contains(individual))
             {
-                foreach (var person in graph[individual])
+                if (graph.ContainsKey(individual))
                 {
-                    people.Enqueue(person);
-                }   
+                    foreach (var person in graph[individual])
+                    {
+                        people.Enqueue(person);
+                    }   
+                }
+                peopleChecked.Add(individual);
             }
         }   
     }

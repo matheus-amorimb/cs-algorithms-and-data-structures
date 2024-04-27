@@ -1,18 +1,21 @@
-﻿Dictionary<string, Dictionary<string, int>> graphWeighted = new Dictionary<string, Dictionary<string, int>>();
+﻿var graphWeightedA = new Dictionary<string, Dictionary<string, int>> {
+    ["A"] = new Dictionary<string, int>() { { "B", 5 }, { "C", 2 }},
+    ["B"] = new Dictionary<string, int>() { { "D", 4 }, { "E", 2 }},
+    ["C"] = new Dictionary<string, int>() { { "B", 8 }, { "E", 7 }},
+    ["D"] = new Dictionary<string, int>() { { "E", 6 }, { "F", 3 }},
+    ["E"] = new Dictionary<string, int>() { { "F", 1 }},
+    ["F"] = new Dictionary<string, int>() { }
+};
 
-graphWeighted["A"] = new Dictionary<string, int>() { { "B", 5 }, { "C", 2 }};
+var graphWeightedB = new Dictionary<string, Dictionary<string, int>> {
+    ["A"] = new Dictionary<string, int>() { { "B", 10 }},
+    ["B"] = new Dictionary<string, int>() { { "C", 20}},
+    ["C"] = new Dictionary<string, int>() { { "D", 1 }, {"E", 30}},
+    ["D"] = new Dictionary<string, int>() { { "B", 1 }},
+    ["E"] = new Dictionary<string, int>() {},
+};
 
-graphWeighted["B"] = new Dictionary<string, int>() { { "D", 4 }, { "E", 2 }};
-
-graphWeighted["C"] = new Dictionary<string, int>() { { "B", 8 }, { "E", 7 }};
-
-graphWeighted["D"] = new Dictionary<string, int>() { { "E", 6 }, { "F", 3 }};
-
-graphWeighted["E"] = new Dictionary<string, int>() { { "F", 1 }};
-
-graphWeighted["F"] = new Dictionary<string, int>() { };
-
-Console.WriteLine(DijkstraAlgorithm(graphWeighted, "A", "F"));
+Console.WriteLine(DijkstraAlgorithm(graphWeightedB, "A", "E"));
 
 static string PrintShortestPath(string end, Dictionary<string, string> relative)
 {

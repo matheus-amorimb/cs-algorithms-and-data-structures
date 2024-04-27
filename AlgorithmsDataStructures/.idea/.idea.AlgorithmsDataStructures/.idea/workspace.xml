@@ -15,7 +15,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.pdb" afterDir="false" />
@@ -257,7 +256,7 @@
       <workItem from="1712273864277" duration="2905000" />
       <workItem from="1713781412090" duration="2717000" />
       <workItem from="1713815313815" duration="27240000" />
-      <workItem from="1714161477944" duration="11290000" />
+      <workItem from="1714161477944" duration="11805000" />
     </task>
     <servers />
   </component>
@@ -267,24 +266,5 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs</url>
-          <line>77</line>
-          <properties documentPath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" containingFunctionPresentation="Local function 'DijkstraAlgorithm'">
-            <startOffsets>
-              <option value="2357" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2358" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

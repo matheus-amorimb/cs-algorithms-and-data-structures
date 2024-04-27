@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/bin/Debug/net8.0/013RomanToInteger
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/bin/Debug/net8.0/013RomanToInteger.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/bin/Debug/net8.0/013RomanToInteger.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/bin/Debug/net8.0/013RomanToInteger.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/bin/Debug/net8.0/013RomanToInteger.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/refint/013RomanToInteger.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/013RomanToInteger.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/013RomanToInteger/obj/Debug/net8.0/ref/013RomanToInteger.dll

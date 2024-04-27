@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122BestTimeBuySellStockII",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055JumpsGame", "055JumpsGame\055JumpsGame.csproj", "{60F83EE5-1180-4627-89AF-1EB367869E76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013RomanToInteger", "013RomanToInteger\013RomanToInteger.csproj", "{98816260-FC81-45EF-BF33-77BDD66C137C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{60F83EE5-1180-4627-89AF-1EB367869E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F83EE5-1180-4627-89AF-1EB367869E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F83EE5-1180-4627-89AF-1EB367869E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98816260-FC81-45EF-BF33-77BDD66C137C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98816260-FC81-45EF-BF33-77BDD66C137C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98816260-FC81-45EF-BF33-77BDD66C137C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98816260-FC81-45EF-BF33-77BDD66C137C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

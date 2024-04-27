@@ -257,7 +257,7 @@
       <workItem from="1712273864277" duration="2905000" />
       <workItem from="1713781412090" duration="2717000" />
       <workItem from="1713815313815" duration="27240000" />
-      <workItem from="1714161477944" duration="10280000" />
+      <workItem from="1714161477944" duration="11290000" />
     </task>
     <servers />
   </component>
@@ -267,5 +267,24 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs</url>
+          <line>77</line>
+          <properties documentPath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" containingFunctionPresentation="Local function 'DijkstraAlgorithm'">
+            <startOffsets>
+              <option value="2357" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2358" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

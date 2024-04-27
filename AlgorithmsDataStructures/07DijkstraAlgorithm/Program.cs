@@ -1,39 +1,20 @@
 ﻿Dictionary<string, Dictionary<string, int>> graphWeighted = new Dictionary<string, Dictionary<string, int>>();
 
-graphWeighted["Livro"] = new Dictionary<string, int>()
-{
-    { "LP Raro", 5 },
-    { "Postêr", 0 },
-};
+graphWeighted["A"] = new Dictionary<string, int>() { { "B", 5 }, { "C", 2 }};
 
-graphWeighted["LP Raro"] = new Dictionary<string, int>()
-{
-    { "Bateria", 20 },
-    { "Baixo", 15 },
-};
+graphWeighted["B"] = new Dictionary<string, int>() { { "D", 4 }, { "E", 2 }};
 
-graphWeighted["Postêr"] = new Dictionary<string, int>()
-{
-    { "Bateria", 35 },
-    { "Baixo", 30 },
-};
+graphWeighted["C"] = new Dictionary<string, int>() { { "B", 8 }, { "E", 7 }};
 
-graphWeighted["Bateria"] = new Dictionary<string, int>()
-{
-    { "Piano", 10 },
-};
+graphWeighted["D"] = new Dictionary<string, int>() { { "E", 6 }, { "F", 3 }};
 
-graphWeighted["Baixo"] = new Dictionary<string, int>()
-{
-    { "Piano", 10 },
-};
+graphWeighted["E"] = new Dictionary<string, int>() { { "F", 1 }};
 
-graphWeighted["Piano"] = new Dictionary<string, int>()
-{ };
+graphWeighted["F"] = new Dictionary<string, int>() { };
 
-Console.WriteLine(DijkstraAlgorithm(graphWeighted, "Livro", "Baixo"));
+Console.WriteLine(DijkstraAlgorithm(graphWeighted, "A", "F"));
 
-static string PrintNodesRelation(string end, Dictionary<string, string> relative)
+static string PrintShortestPath(string end, Dictionary<string, string> relative)
 {
     string message = $"{end} <==== ";
     string lastElement = end;
@@ -98,30 +79,29 @@ static string DijkstraAlgorithm(Dictionary<string, Dictionary<string, int>> grap
         return $"There is path to {end}";
     }
     
-    var (costs, relative) = SetInitialValues(graphWeighted, start);
+    var (nodeCosts, nodeParents) = SetInitialValues(graphWeighted, start);
 
-    var costAux = costs;
-
-    List<string> nodesToProcess = costs.Keys.ToList();
+    List<string> unprocessedNodes = nodeCosts.Keys.ToList();
     
-    while (nodesToProcess.Any())
+    while (unprocessedNodes.Any())
     {
-        string lowestCost = FindLowestCost(costs, nodesToProcess);
+        string currentNode = FindLowestCost(nodeCosts, unprocessedNodes);
         
-        foreach (var node in graphWeighted[lowestCost])
+        foreach (var node in graphWeighted[currentNode])
         {
-            if (node.Value < costs[node.Key])
+            int newPathCost = nodeCosts[currentNode] + node.Value;
+            if (newPathCost < nodeCosts[node.Key])
             {
-                costs[node.Key] = node.Value + costs[lowestCost];
-                relative[node.Key] = lowestCost;
+                nodeCosts[node.Key] = newPathCost;
+                nodeParents[node.Key] = currentNode;
             }
         }
-        nodesToProcess.Remove(lowestCost);
+        unprocessedNodes.Remove(currentNode);
     }
     
-    var message = PrintNodesRelation(end, relative);
+    var shortestPathMessage = PrintShortestPath(end, nodeParents);
 
-    Console.WriteLine(message);
+    Console.WriteLine(shortestPathMessage);
     
-    return $"{costs[end]}";
+    return $"{nodeCosts[end]}";
 }

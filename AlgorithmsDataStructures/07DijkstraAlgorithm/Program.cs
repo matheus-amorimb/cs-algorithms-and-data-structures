@@ -31,7 +31,7 @@ graphWeighted["Baixo"] = new Dictionary<string, int>()
 graphWeighted["Piano"] = new Dictionary<string, int>()
 { };
 
-Console.WriteLine(DijkstraAlgorithm(graphWeighted, "Livro", "Piano"));
+Console.WriteLine(DijkstraAlgorithm(graphWeighted, "Livro", "Baixo"));
 
 static string PrintNodesRelation(string end, Dictionary<string, string> relative)
 {
@@ -47,7 +47,7 @@ static string PrintNodesRelation(string end, Dictionary<string, string> relative
     return message;
 }
 
-static (Dictionary<string, int>, Dictionary<string, string>) SetInitialValues(Dictionary<string, Dictionary<string, int>> graphWeighted, string start, string end){
+static (Dictionary<string, int>, Dictionary<string, string>) SetInitialValues(Dictionary<string, Dictionary<string, int>> graphWeighted, string start){
     Dictionary<string, int> costs = new Dictionary<string, int>();
     Dictionary<string, string> relative = new Dictionary<string, string>();
 
@@ -76,12 +76,12 @@ static (Dictionary<string, int>, Dictionary<string, string>) SetInitialValues(Di
 }
 
 
-static string FindLowestCost(Dictionary<string, int> costs)
+static string FindLowestCost(Dictionary<string, int> costs, List<string> nodesToProcess)
 {
     int lowestValue = Int32.MaxValue;
     foreach (var cost in costs.Keys)
     {
-        if (costs[cost] < lowestValue)
+        if (costs[cost] < lowestValue && nodesToProcess.Contains(cost))
         {
             lowestValue = costs[cost];
         }
@@ -91,15 +91,22 @@ static string FindLowestCost(Dictionary<string, int> costs)
     
 }
 
-static int DijkstraAlgorithm(Dictionary<string, Dictionary<string, int>> graphWeighted, string start, string end)
+static string DijkstraAlgorithm(Dictionary<string, Dictionary<string, int>> graphWeighted, string start, string end)
 {
-    var (costs, relative) = SetInitialValues(graphWeighted, start, end);
+    if (!graphWeighted.ContainsKey(end))
+    {
+        return $"There is path to {end}";
+    }
+    
+    var (costs, relative) = SetInitialValues(graphWeighted, start);
 
     var costAux = costs;
 
-    while (costAux.Count > 1)
+    List<string> nodesToProcess = costs.Keys.ToList();
+    
+    while (nodesToProcess.Any())
     {
-        string lowestCost = FindLowestCost(costs);
+        string lowestCost = FindLowestCost(costs, nodesToProcess);
         
         foreach (var node in graphWeighted[lowestCost])
         {
@@ -109,12 +116,12 @@ static int DijkstraAlgorithm(Dictionary<string, Dictionary<string, int>> graphWe
                 relative[node.Key] = lowestCost;
             }
         }
-        costAux.Remove(lowestCost);
+        nodesToProcess.Remove(lowestCost);
     }
     
     var message = PrintNodesRelation(end, relative);
 
     Console.WriteLine(message);
     
-    return costs[end] != Int32.MaxValue ? costs[end] : 0;
+    return $"{costs[end]}";
 }

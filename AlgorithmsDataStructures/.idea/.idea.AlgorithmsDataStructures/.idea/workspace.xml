@@ -14,18 +14,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/bin/Debug/net8.0/07DijkstraAlgorithm.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/07DijkstraAlgorithm.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/ref/07DijkstraAlgorithm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/ref/07DijkstraAlgorithm.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/refint/07DijkstraAlgorithm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/07DijkstraAlgorithm/obj/Debug/net8.0/refint/07DijkstraAlgorithm.dll" afterDir="false" />
-    </list>
+    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,7 +245,7 @@
       <workItem from="1712273864277" duration="2905000" />
       <workItem from="1713781412090" duration="2717000" />
       <workItem from="1713815313815" duration="27240000" />
-      <workItem from="1714161477944" duration="11805000" />
+      <workItem from="1714161477944" duration="12153000" />
     </task>
     <servers />
   </component>

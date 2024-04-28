@@ -7,6 +7,7 @@
     <projectFile>04Quicksort/04Quicksort.csproj</projectFile>
     <projectFile>05HashTables/05HashTables.csproj</projectFile>
     <projectFile>07DijkstraAlgorithm/07DijkstraAlgorithm.csproj</projectFile>
+    <projectFile>08GreedyAlgorithm/08GreedyAlgorithm.csproj</projectFile>
     <projectFile>AlgorithmsDataStructures/AlgorithmsDataStructures.csproj</projectFile>
     <projectFile>BreadthFirstSearch/BreadthFirstSearch.csproj</projectFile>
   </component>
@@ -14,7 +15,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="" />
+    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +46,7 @@
     ".NET Project.04Quicksort.executor": "Run",
     ".NET Project.06BreadthFirstSearch.executor": "Run",
     ".NET Project.07DijkstraAlgorithm.executor": "Run",
+    ".NET Project.08GreedyAlgorithm.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/LeetCodeProblems.sln",
@@ -61,7 +66,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.07DijkstraAlgorithm">
+  <component name="RunManager" selected=".NET Project.08GreedyAlgorithm">
     <configuration name="01BinarySearch" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -188,6 +193,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="08GreedyAlgorithm" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/08GreedyAlgorithm/08GreedyAlgorithm.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="AlgorithmsDataStructures" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -246,6 +269,7 @@
       <workItem from="1713781412090" duration="2717000" />
       <workItem from="1713815313815" duration="27240000" />
       <workItem from="1714161477944" duration="12381000" />
+      <workItem from="1714314054299" duration="3750000" />
     </task>
     <servers />
   </component>

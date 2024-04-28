@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/bin/Debug/net8.0/08GreedyAlgorithm
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/bin/Debug/net8.0/08GreedyAlgorithm.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/bin/Debug/net8.0/08GreedyAlgorithm.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/bin/Debug/net8.0/08GreedyAlgorithm.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/bin/Debug/net8.0/08GreedyAlgorithm.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/refint/08GreedyAlgorithm.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/08GreedyAlgorithm/obj/Debug/net8.0/ref/08GreedyAlgorithm.dll

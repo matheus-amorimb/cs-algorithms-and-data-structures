@@ -16,25 +16,20 @@ static int RomanToInt(string s)
     };
 
     int romanToInt = 0;
+    int previousValue = 0;    
     
     for (int i = 0; i < s.Length; i++)
-    {
+    {   
         int valueToAdd = romanInts[s[i]];
 
-        if (i != s.Length - 1)
+        if (valueToAdd > previousValue) 
         {
-            if (
-                s[i] == 'I' && (s[i + 1] == 'V' || s[i + 1] == 'X') ||
-                s[i] == 'X' && (s[i + 1] == 'L' || s[i + 1] == 'C') ||
-                s[i] == 'C' && (s[i + 1] == 'D' || s[i + 1] == 'M')
-                )
-            {
-                valueToAdd = -romanInts[s[i]];
-            }
+            valueToAdd += -(2 * previousValue);
         }
-        
+            
         romanToInt += valueToAdd;
+        previousValue = valueToAdd;
     }
-    
+         
     return romanToInt;
 }

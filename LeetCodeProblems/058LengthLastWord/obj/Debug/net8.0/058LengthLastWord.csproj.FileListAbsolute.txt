@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/bin/Debug/net8.0/058LengthLastWord
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/bin/Debug/net8.0/058LengthLastWord.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/bin/Debug/net8.0/058LengthLastWord.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/bin/Debug/net8.0/058LengthLastWord.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/bin/Debug/net8.0/058LengthLastWord.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/refint/058LengthLastWord.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/058LengthLastWord.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/058LengthLastWord/obj/Debug/net8.0/ref/058LengthLastWord.dll

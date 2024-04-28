@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055JumpsGame", "055JumpsGam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013RomanToInteger", "013RomanToInteger\013RomanToInteger.csproj", "{98816260-FC81-45EF-BF33-77BDD66C137C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058LengthLastWord", "058LengthLastWord\058LengthLastWord.csproj", "{14540556-EC43-414F-9238-779665E4E688}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{98816260-FC81-45EF-BF33-77BDD66C137C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98816260-FC81-45EF-BF33-77BDD66C137C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98816260-FC81-45EF-BF33-77BDD66C137C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14540556-EC43-414F-9238-779665E4E688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14540556-EC43-414F-9238-779665E4E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14540556-EC43-414F-9238-779665E4E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14540556-EC43-414F-9238-779665E4E688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

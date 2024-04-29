@@ -29,7 +29,7 @@ static HashSet<string> SetCoverProblem()
         {
             cover = statesToCover.Intersect(station.Value).ToHashSet();
             if (coveredArea.Count < cover.Count)
-            {
+            {   
                 coveredArea = cover;
                 bestStation = station.Key;
             }

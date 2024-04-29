@@ -8,6 +8,7 @@
     <projectFile>05HashTables/05HashTables.csproj</projectFile>
     <projectFile>07DijkstraAlgorithm/07DijkstraAlgorithm.csproj</projectFile>
     <projectFile>08GreedyAlgorithm/08GreedyAlgorithm.csproj</projectFile>
+    <projectFile>10DynamicProgramming/10DynamicProgramming.csproj</projectFile>
     <projectFile>AlgorithmsDataStructures/AlgorithmsDataStructures.csproj</projectFile>
     <projectFile>BreadthFirstSearch/BreadthFirstSearch.csproj</projectFile>
   </component>
@@ -16,7 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmsDataStructures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08GreedyAlgorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/08GreedyAlgorithm/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,33 +42,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.01BinarySearch.executor": "Run",
-    ".NET Project.02SelectionSort.executor": "Run",
-    ".NET Project.04Quicksort.executor": "Run",
-    ".NET Project.06BreadthFirstSearch.executor": "Run",
-    ".NET Project.07DijkstraAlgorithm.executor": "Run",
-    ".NET Project.08GreedyAlgorithm.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/LeetCodeProblems.sln",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.01BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.02SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.04Quicksort.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.06BreadthFirstSearch.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.07DijkstraAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.08GreedyAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/LeetCodeProblems.sln&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/home/matheus/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/home/matheus/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/home/matheus/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/home/matheus/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/home/matheus/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/home/matheus/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.08GreedyAlgorithm">
     <configuration name="01BinarySearch" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -211,6 +214,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="10DynamicProgramming" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/10DynamicProgramming/10DynamicProgramming.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="AlgorithmsDataStructures" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -270,6 +291,7 @@
       <workItem from="1713815313815" duration="27240000" />
       <workItem from="1714161477944" duration="12381000" />
       <workItem from="1714314054299" duration="3750000" />
+      <workItem from="1714378875342" duration="1527000" />
     </task>
     <servers />
   </component>

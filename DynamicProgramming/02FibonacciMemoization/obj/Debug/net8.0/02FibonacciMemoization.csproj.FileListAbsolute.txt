@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/bin/Debug/net8.0/02FibonacciMemoization
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/bin/Debug/net8.0/02FibonacciMemoization.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/bin/Debug/net8.0/02FibonacciMemoization.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/bin/Debug/net8.0/02FibonacciMemoization.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/bin/Debug/net8.0/02FibonacciMemoization.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/refint/02FibonacciMemoization.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/02FibonacciMemoization.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/02FibonacciMemoization/obj/Debug/net8.0/ref/02FibonacciMemoization.dll

@@ -1,6 +1,11 @@
-﻿
+﻿var watch = System.Diagnostics.Stopwatch.StartNew();
 
-Console.WriteLine(FibonacciRecursive(7));
+Console.WriteLine(FibonacciRecursive(55));
+
+watch.Stop();
+var elapsedMs = watch.ElapsedMilliseconds;
+
+Console.WriteLine($"Time: {elapsedMs}ms");
 
 static int FibonacciRecursive(int n)
 {

@@ -16,12 +16,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/08GreedyAlgorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/08GreedyAlgorithm/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/08GreedyAlgorithm/obj/Debug/net8.0/08GreedyAlgorithm.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDataStructures.sln" afterDir="false" />
-    </list>
+    <list default="true" id="50f8eee9-f755-498a-b496-47e5a0191b16" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,7 +286,7 @@
       <workItem from="1713815313815" duration="27240000" />
       <workItem from="1714161477944" duration="12381000" />
       <workItem from="1714314054299" duration="3750000" />
-      <workItem from="1714378875342" duration="1527000" />
+      <workItem from="1714378875342" duration="1575000" />
     </task>
     <servers />
   </component>

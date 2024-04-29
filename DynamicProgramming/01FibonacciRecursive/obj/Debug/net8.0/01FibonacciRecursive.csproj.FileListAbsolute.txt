@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/bin/Debug/net8.0/01FibonacciRecursive
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/bin/Debug/net8.0/01FibonacciRecursive.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/bin/Debug/net8.0/01FibonacciRecursive.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/bin/Debug/net8.0/01FibonacciRecursive.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/bin/Debug/net8.0/01FibonacciRecursive.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/refint/01FibonacciRecursive.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/01FibonacciRecursive.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/01FibonacciRecursive/obj/Debug/net8.0/ref/01FibonacciRecursive.dll

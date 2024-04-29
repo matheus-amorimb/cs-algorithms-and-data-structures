@@ -1,0 +1,5 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/DynamicProgramming/obj/Debug/net8.0/DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/DynamicProgramming/obj/Debug/net8.0/DynamicProgramming.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/DynamicProgramming/obj/Debug/net8.0/DynamicProgramming.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/DynamicProgramming/obj/Debug/net8.0/DynamicProgramming.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/DynamicProgramming/DynamicProgramming/obj/Debug/net8.0/DynamicProgramming.sourcelink.json

@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/bin/Debug/net8.0/13KnuthMorrisPratt
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/bin/Debug/net8.0/13KnuthMorrisPratt.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/bin/Debug/net8.0/13KnuthMorrisPratt.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/bin/Debug/net8.0/13KnuthMorrisPratt.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/bin/Debug/net8.0/13KnuthMorrisPratt.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/refint/13KnuthMorrisPratt.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/13KnuthMorrisPratt.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/AlgorithmsDataStructures/13KnuthMorrisPratt/obj/Debug/net8.0/ref/13KnuthMorrisPratt.dll

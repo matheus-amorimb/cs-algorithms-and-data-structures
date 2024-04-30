@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08GreedyAlgorithm", "08Gree
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10DynamicProgramming", "10DynamicProgramming\10DynamicProgramming.csproj", "{F5FD2D31-3A4D-4515-9ECD-D03239ED8710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13KnuthMorrisPratt", "13KnuthMorrisPratt\13KnuthMorrisPratt.csproj", "{20384B4B-4484-4A4F-A27A-697FDCCA386E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{F5FD2D31-3A4D-4515-9ECD-D03239ED8710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5FD2D31-3A4D-4515-9ECD-D03239ED8710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5FD2D31-3A4D-4515-9ECD-D03239ED8710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20384B4B-4484-4A4F-A27A-697FDCCA386E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20384B4B-4484-4A4F-A27A-697FDCCA386E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20384B4B-4484-4A4F-A27A-697FDCCA386E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20384B4B-4484-4A4F-A27A-697FDCCA386E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

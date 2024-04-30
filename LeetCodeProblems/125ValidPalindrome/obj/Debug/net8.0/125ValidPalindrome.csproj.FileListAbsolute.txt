@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.deps.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/bin/Debug/net8.0/125ValidPalindrome.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/refint/125ValidPalindrome.dll
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.pdb
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/125ValidPalindrome.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-algorithms-and-data-structures/LeetCodeProblems/125ValidPalindrome/obj/Debug/net8.0/ref/125ValidPalindrome.dll

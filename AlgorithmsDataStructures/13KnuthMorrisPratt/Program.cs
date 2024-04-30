@@ -1,6 +1,6 @@
 ﻿
-string haystack = "ab";
-string needle = "abc";
+string haystack = "mississippi";
+string needle = "issip";
 
 Console.WriteLine(KnuthMorrisPratt(haystack, needle));
 
